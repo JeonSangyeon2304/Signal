@@ -49,8 +49,8 @@
 > 1. massage: m
 > 2. encryption massage: en_msg = m*A
 6. Send encrypted messages to frequencies that come through a grid
-7. 송출된 주파수를 인식한 단말기가 주파수 값을 대차표를 통해 나온 값으로 치환 후 서버에 전송
-8. 서버에 전달된 값을 서버가 가지고 있는 값을 가지고 만든 값과 비교
+7. Device that recognizes the transmitted frequency replaces the frequency value with the value from the table and sends it to the server
+8. Compare the values passed to the server with the values that the server has
 > M*B^a mod p = M*A^b mod p
-> (서버는 A, b, p, M을 알고있다.)
-9. 일치하면 인증성공
+> (Servers know A, B, p, and M.)
+9. Successful authentication if matched
