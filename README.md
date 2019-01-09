@@ -38,7 +38,7 @@
 3. Authentication apply Diffie-Hellman
 4. Authentication use set password
 
-## 디피-헬만을 이용한 인증(Authentication apply Diffie-Hellman
+## Authentication apply Diffie-Hellman
 1. (Create P key when joining a member
 2. Create Q key on login
 3. Create an app's private key and public key using the authentication button
