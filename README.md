@@ -4,7 +4,6 @@
 ## 주의) 어플리케이션 부분만 있습니다.(DB제작, 웹 페이지 제작 필요)
 ## 통신) Http 통신을 사용합니다.
 ## 기능(Function)
----
 1. 회원 가입(Join membership)
 2. 로그인 (Log in)
 3. 디피-헬만을 응용한 인증 (Authentication apply Diffie-Hellman)
