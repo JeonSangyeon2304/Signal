@@ -3,13 +3,13 @@
 ## 프로젝트 명: 음파를 이용한 인증수단 개발
 ## 주의) 어플리케이션 부분만 있습니다.(DB제작, 웹 페이지 제작 필요)
 ## 통신) Http 통신을 사용합니다.
-## 기능(Function)
-1. 회원 가입(Join membership)
-2. 로그인 (Log in)
-3. 디피-헬만을 응용한 인증 (Authentication apply Diffie-Hellman)
-4. 설정한 비밀번호를 사용한 인증 (Authentication use set password)
+## 기능
+1. 회원 가입
+2. 로그인
+3. 디피-헬만을 응용한 인증
+4. 설정한 비밀번호를 사용한 인증
 
-디피-헬만을 이용한 인증(Authentication apply Diffie-Hellman)
+디피-헬만을 이용한 인증
 ===
 1. 회원가입시 p키 생성(Create P key when joining a member)
 2. 로그인 시 q키 생성(Create Q key on login)
